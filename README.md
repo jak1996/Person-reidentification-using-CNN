@@ -6,6 +6,7 @@ The datasets used are:
 - market-1501 
 - Duke MTMC-ReID 
 - MSMT 17
+
 this were the results:
 ![](https://github.com/jak1996/Person-reidentification-using-CNN/blob/master/presentation/Immagine1.png)
 
