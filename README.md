@@ -7,7 +7,7 @@ The datasets used are:
 - Duke MTMC-ReID 
 - MSMT 17
 this were the results:
-![](presentation\Immagine1.png)
+![](https://github.com/jak1996/Person-reidentification-using-CNN/blob/master/presentation/Immagine1.png)
 
 
 
