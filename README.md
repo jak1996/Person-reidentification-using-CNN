@@ -7,7 +7,7 @@ The datasets used are:
 - Duke MTMC-ReID 
 - MSMT 17
 this were the results:
-![](presentation\Immagine1)
+![](presentation\Immagine1.png)
 
 
 
